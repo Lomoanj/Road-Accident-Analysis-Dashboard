@@ -1,6 +1,6 @@
 # Road Accident Analysis Dashboard 🚦
 
-This is my **second data visualization project**, created using **Tableau**, focused on analyzing road accidents using real-world data. The dashboard uncovers trends in accident severity, contributing factors, and regional patterns, providing actionable insights for public safety and transport planning.
+Created using **Tableau**, this dashboard analyzes road accidents with real-world data. It uncovers trends in **accident severity, contributing factors, and regional patterns, providing actionable insights for public safety and transport planning**.
 
 ---
 
@@ -41,9 +41,9 @@ This dashboard presents a comprehensive view of road accident statistics, offeri
 
 ## 📷 Dashboard Preview
 
-![Dashboard_snapshot](https://github.com/user-attachments/assets/a379b93c-875f-48bf-847f-108c3d3f4226)  
-![Dashboard_snapshot1](https://github.com/user-attachments/assets/6f6b3573-cb6d-4408-8494-b245765993de)  
-![Dashboard_snapshot2](https://github.com/user-attachments/assets/9b5c7b65-5bbc-4523-a1dc-5d2ce7331eb4)
+![Dashboard_snapshot](https://github.com/user-attachments/assets/35b2fe2a-b8ba-4aca-ba5c-403378468d00)  
+![Dashboard_snapshot1](https://github.com/user-attachments/assets/5db37442-80cf-45b4-b0ed-f26c73049df0)  
+![Dashboard_snapshot2](https://github.com/user-attachments/assets/dffcc411-1e84-42ee-ab00-bf48d1b3270d)  
 
 ---
 
